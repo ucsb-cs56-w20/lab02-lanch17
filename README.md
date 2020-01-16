@@ -4,7 +4,7 @@
 * TODO: Correct the links to the javadoc and repo below, then delete this TODO
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-lanch17
-Repo: https://ucsb-cs56-w20/lab02-lanch17
+Repo: https://github.com/ucsb-cs56-w20/lab02-lanch17
 
 # About this repo
 
